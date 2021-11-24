@@ -1,11 +1,12 @@
 body {
-  wigth: inherit;
+  width: inherit;
   font-family: sans-serif;letter-spacing: 1.8px;
   display: flex;
   justify-content: center;
   align-items: center;
   background-image: url(../image/sunrise-g4ad08bb61_1920.jpg);
-  text-aling: center;
+  text-align: center;
+
   
 }
 .container {
