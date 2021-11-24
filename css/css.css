@@ -4,7 +4,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url(../image/sunrise-g4ad08bb61_1920.jpg)
+  background-image: url(../image/sunrise-g4ad08bb61_1920.jpg);
+  text-aling: center;
   
 }
 .container {
