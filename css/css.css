@@ -1,0 +1,57 @@
+body {
+  background: rgb(14, 10, 10);
+  width: 100vw;
+  font-family: sans-serif;letter-spacing: 1.8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url(../image/sunrise-g4ad08bb61_1920.jpg)
+  
+}
+.container {
+  margin-top: 50px  ;
+  max-width: 700px;
+  background: white;
+  max-height: 700px;
+  min-height: 500px;
+  border-radius: 10px;
+}
+.section-1 {
+  min-height: 200px;
+  background-image: url(../image/fondo-dev.jpg);
+  background-size: contain;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  position: relative;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  box-sizing: border-box;
+}
+.avatar {
+  position: absolute;
+  bottom: -80px
+}
+.avatar-daniel {
+  border-radius: 50%;
+  border: 4px solid white;
+}
+.section-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px
+}
+.section-2 p {
+  margin: 10px 20px 10px 20px;
+}
+.social-media{
+  display: flex;
+  max-width: 350px;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.social-media figure {
+  margin: 10px;
+}
