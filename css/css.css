@@ -1,4 +1,5 @@
 body {
+  wigth: inherit;
   font-family: sans-serif;letter-spacing: 1.8px;
   display: flex;
   justify-content: center;
